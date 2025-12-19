@@ -7,6 +7,8 @@ Il codice consente di eseguire simulazioni e salvare in ambiente di esecuzione:
 - una serie di grafici (plot.png)per l'analisi dei risultati, con particolare riferimento alla qualità degli stream positivi (polimeri da utilizzare per alimentazione di altoforno), nonché alla qualità degli scarti; 
 - diagrammi a blocchi relativi allo schema concettuale del modello di trattamento, sia nella versione semplificata sia in quella complessa.
 
-Per eseguire il modello direttamente online, senza installare software aggiuntivo, aprire il notebook tramite Binder al seguente link [![Binder](https://mybinder.org/badge_logo.svg)](
+Per eseguire il modello direttamente online, senza installare software aggiuntivo, aprire il notebook tramite Binder al seguente link: 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](
 https://mybinder.org/v2/gh/selectika1/plasmix/HEAD
 )
